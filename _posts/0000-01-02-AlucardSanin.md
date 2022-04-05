@@ -3,4 +3,4 @@ layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
 Tu texto
-Utiliza la flecha hacia la izquierda para volver!
+Las rosas son rojas las violetas azules tengo hambre.
